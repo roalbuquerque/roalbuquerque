@@ -15,8 +15,8 @@
   
   😄 Hope you like
 
-[![card](https://github-readme-stats.vercel.app/api?username=roalbuquerque&theme=tokyonight)](https://github.com/iuricode/) 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=roalbuquerque&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
+[![card](https://github-readme-stats.vercel.app/api?username=roalbuquerque&theme=tokyonight)] 
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=roalbuquerque&hide=html&layout=compact&theme=tokyonight)]
 
 ### Skills 🚀
 **Frameworks:**
